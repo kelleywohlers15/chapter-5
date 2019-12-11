@@ -1,0 +1,10 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\bin\Debug\netcoreapp2.0\validID.deps.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\bin\Debug\netcoreapp2.0\validID.runtimeconfig.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\bin\Debug\netcoreapp2.0\validID.runtimeconfig.dev.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\bin\Debug\netcoreapp2.0\validID.dll
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\bin\Debug\netcoreapp2.0\validID.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\obj\Debug\netcoreapp2.0\validID.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\obj\Debug\netcoreapp2.0\validID.AssemblyInfoInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\obj\Debug\netcoreapp2.0\validID.AssemblyInfo.cs
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\obj\Debug\netcoreapp2.0\validID.dll
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 5\validID\validID\obj\Debug\netcoreapp2.0\validID.pdb

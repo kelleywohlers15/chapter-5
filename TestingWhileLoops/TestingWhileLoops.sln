@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingWhileLoops", "TestingWhileLoops\TestingWhileLoops.csproj", "{45B07273-F60A-4106-999B-428AEA9AC04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B07273-F60A-4106-999B-428AEA9AC04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B07273-F60A-4106-999B-428AEA9AC04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B07273-F60A-4106-999B-428AEA9AC04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B07273-F60A-4106-999B-428AEA9AC04B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99D50675-F480-4E6F-933B-5DF721A02FC2}
+	EndGlobalSection
+EndGlobal
